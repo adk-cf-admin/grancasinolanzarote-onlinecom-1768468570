@@ -1,0 +1,19 @@
+{
+  "name": "Gran Casino Lanzarote",
+  "short_name": "Gran Casino Lanzarote",
+  "theme_color": "",
+  "background_color": "#151515",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1768466167-grancasinolanzarote-avatar-300x300.webp",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}
